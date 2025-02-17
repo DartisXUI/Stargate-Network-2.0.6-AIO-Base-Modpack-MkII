@@ -1,0 +1,13 @@
+name = "Dartis-Craft - Stargate Network 2.0.6 - AIO Base Modpack - 1.12.2"
+author = "Dartis-Craft"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "768bcf196b577c047f001bf1b80a56024d12f570fc302b324a083266b002a4bb"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
